@@ -7,6 +7,8 @@
 
 - 🔭 最近作成した作品 [Nerd](https://nerd-plus.com/)
 
+- 🏘 自己紹介 [About](https://www.kurahashi.me/about)
+
 - 🌱 現在学習中 **Go を学習中、Next,js, React, Typescript も技術を向上させるため勉強中**
 
 - 👯 興味のある分野 **Web 開発のプロジェクトに興味があります。**
