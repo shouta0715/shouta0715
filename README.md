@@ -2,15 +2,10 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shouta0715&theme=onedark&column=4)" alt="shouta0715" /></a> </p>
 
-#### 🔭 Recent Work [Nerd](https://nerd-plus.com/)
+#### 🔭 Twitter [Twitter](https://twitter.com/shoutapu0715)
 
 #### 🏘 [About me](https://www.kurahashi.me/)
 
-#### 👯 Interest **Web Developer**
-
-#### 📄 [My GitHub](https://github.com/shouta0715)
-
-#### 📝 [Study History Notion](https://ubiquitous-harrier-6b6.notion.site/08c6c6d00fd94986ba5f1c5dd37e6ead?v=ad2a30c65a5b4a47a7e22664656187a8)
 
 ### Languages and Tools
 
