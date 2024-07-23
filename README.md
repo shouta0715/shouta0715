@@ -2,7 +2,7 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shouta0715&theme=onedark&column=4)" alt="shouta0715" /></a> </p>
 
-#### 🔭 Twitter [Twitter](https://twitter.com/shoutapu0715)
+#### 🔭 [Twitter](https://twitter.com/shoutapu0715)
 
 #### 🏘 [About me](https://www.kurahashi.me/)
 
