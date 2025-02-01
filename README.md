@@ -1,9 +1,10 @@
 <h1 align="center">やあ 👋, I'm Shouta Kurahashi</h1>
 
-### 🔭 [Twitter](https://twitter.com/shoutapu0715)
 ### Languages and Tools
 
 - [All My Skills](https://www.kurahashi.me/skills)
+- 🔭 [Twitter](https://twitter.com/shoutapu0715)
+
 
 #### Frontend
 
