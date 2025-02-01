@@ -1,12 +1,6 @@
 <h1 align="center">やあ 👋, I'm Shouta Kurahashi</h1>
 
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shouta0715&theme=onedark&column=4)" alt="shouta0715" /></a> </p>
-
 ### 🔭 [Twitter](https://twitter.com/shoutapu0715)
-
-### 🏘 [About me](https://www.kurahashi.me/)
-
-
 ### Languages and Tools
 
 - [All My Skills](https://www.kurahashi.me/skills)
